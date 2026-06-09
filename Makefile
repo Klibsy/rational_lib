@@ -13,3 +13,5 @@ test: $(TARGET)
 
 clean:
 	rm -f $(TARGET) test_rational
+
+.PHONY: all test clean

@@ -100,3 +100,4 @@ double rational_to_double(const rational_t *r) {
     if (!r) return 0.0;
     return (double)r->num / (double)r->den;
 }
+// реализация библиотеки

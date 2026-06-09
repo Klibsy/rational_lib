@@ -21,3 +21,4 @@ int rational_cmp(const rational_t *a, const rational_t *b);
 double rational_to_double(const rational_t *r);
 
 #endif
+// version 1.0
